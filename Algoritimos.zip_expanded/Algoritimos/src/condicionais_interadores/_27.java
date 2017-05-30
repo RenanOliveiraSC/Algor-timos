@@ -4,6 +4,12 @@
 //System.out.println(String.format(templateTexto, primeiroNome));
 package condicionais_interadores;
 
+import java.util.Scanner;
+
 public class _27 {
 
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+
+	}
 }

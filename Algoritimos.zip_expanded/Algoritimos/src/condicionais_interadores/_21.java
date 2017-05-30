@@ -10,8 +10,10 @@ public class _21 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+
 		System.out.println("Digite o seu nome completo");
 		String nomeCompleto = scanner.nextLine();
+
 		int pos1 = nomeCompleto.lastIndexOf(" ");
 		System.out.println(pos1);
 		pos1++;
