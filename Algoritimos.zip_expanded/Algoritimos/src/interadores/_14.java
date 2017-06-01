@@ -122,49 +122,42 @@ public class _14 {
 		System.out.println(resultado2);
 		System.out.println(resultado2);
 
-		
-
 		System.out.println("");
 		System.out.println("************** EXERCÍCIO (G)********************");
 
-		//g. //@_@
-			 //@_@
-			 //@_@
-			 //@_@
+		// g. //@_@
+		// @_@
+		// @_@
+		// @_@
 
-	//public static String method2(int n) {
+		// public static String method2(int n) {
 		String s = "";
 		for (int i = 0; i < 4; i++)
-			s = s + "@_@" +"\n";
-				System.out.print(s);
-		
+			s = s + "@_@" + "\n";
+		System.out.print(s);
+
 		System.out.println("");
 		System.out.println("************** EXERCÍCIO (G)********************");
 
-		//g. @_@
-		//	 _@_
-		// 	 @_@
+		// g. @_@
+		// _@_
+		// @_@
 
 		String g = "";
 		for (int i = 0; i < 1; i++)
 			g = g + "@_@" + "\n" + "_@_" + "\n";
-			g = g + "@_@";
-				System.out.print(g);
-		
+		g = g + "@_@";
+		System.out.print(g);
+
 		System.out.println("");
 		System.out.println("************** EXERCÍCIO (H)********************");
-		
-		String[][] lista = new String[6][7];
-		
-		for(int linhas = 0; linhas < lista.length; linhas++){
-			for(int coluna = 0; coluna < lista[linhas].length; coluna++){
-				
-			}
-					
-		}
-			
-			
-			
+
 	
+		
+		* for (int linhas = 0; linhas < lista.length; linhas++) { for (int
+		 * coluna = 0; coluna < lista[linhas].length; coluna++) {
+		 * 
+		 * for
+		 */
 	}
 }
