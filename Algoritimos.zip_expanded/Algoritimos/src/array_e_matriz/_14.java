@@ -10,9 +10,18 @@ public class _14 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
-		int[] primeiro = new int[4];
+		int[] primeiro = new int[5];
 		{
-			
+			primeiro[0] = 10;
+			primeiro[1] = 8;
+			primeiro[2] = 6;
+			primeiro[3] = 4;
+			primeiro[4] = 2;
+		
+		int[] segundo = new int[5];
+		for(int aux = 0; aux < segundo.length; aux++){
+			if()
+		}
 		}
 	}
 }
