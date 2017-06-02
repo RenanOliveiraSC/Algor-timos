@@ -9,19 +9,20 @@ public class _14 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		
-		int[] primeiro = new int[5];
+
+		int[] p = { 10, 8, 6, 4, 2 };
 		{
-			primeiro[0] = 10;
-			primeiro[1] = 8;
-			primeiro[2] = 6;
-			primeiro[3] = 4;
-			primeiro[4] = 2;
-		
-		int[] segundo = new int[5];
-		for(int aux = 0; aux < segundo.length; aux++){
-			if()
-		}
+
+			for (int i = 0; i < p.length; i++) {
+				System.out.println(p[i]);
+			}
+			int[] s = new int[5];
+			{
+				if (s == p) {
+					// for (int a = 0; a < p.length; a++) {
+					System.out.println(s);
+				}
+			}
 		}
 	}
 }

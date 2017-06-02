@@ -8,13 +8,12 @@ public class _11 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		
+
 		boolean[] v = new boolean[6];
-		for(int c = 0; c < 6 ; c++){
-			if(c % 2 == 0){
+		for (int c = 0; c < v.length; c++) {
+			if (c % 2 == 0) {
 				System.out.println("true");
-			}
-			else{
+			} else {
 				System.out.println("false");
 			}
 		}
