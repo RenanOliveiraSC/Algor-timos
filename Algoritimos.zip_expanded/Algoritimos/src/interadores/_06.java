@@ -14,5 +14,5 @@ public class _06 {
 			{
 				System.out.println(n);
 			}
-		}
-	}
+		
+	
