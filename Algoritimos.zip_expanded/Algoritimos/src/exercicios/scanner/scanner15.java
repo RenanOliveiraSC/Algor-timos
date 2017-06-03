@@ -15,7 +15,7 @@ public class scanner15 {
 		observacao = scanner.nextLine();
 		System.out.print("Observação:" + observacao + "\n");
 
-		if (observacao.length() < 50) {
+		if (observacao.length() < 10) {
 			System.out.println("true");
 		} else {
 			System.out.println("false");
