@@ -12,11 +12,11 @@ public class _03 {
 				System.out.println(num);
 			}
 			num++;
-<<<<<<< HEAD
-			if(num == 25){
-				System.out.println("Olá");}
-=======
->>>>>>> branch 'master' of https://github.com/RenanOliveiraSC/Algoritimos.git
+
+			if (num == 25) {
+				System.out.println("Olá");
+			}
+
 		}
 	}
 }
