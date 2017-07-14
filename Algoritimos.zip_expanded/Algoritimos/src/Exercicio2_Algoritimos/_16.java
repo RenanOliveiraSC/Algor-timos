@@ -4,9 +4,9 @@ package Exercicio2_Algoritimos;
 public class _16 {
 
 	public static void main(String[] args) {
-		for (i = 10; i <= 1000; i++){
-			while (i % 5 == 0 && i > 3){
-				System.out.println(i)
+		for (int i = 10; i <= 1000; i++) {
+			while (i % 5 == 0 && i > 3) {
+				System.out.println(i);
 			}
 		}
 	}
